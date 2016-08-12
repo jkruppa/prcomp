@@ -7,8 +7,9 @@ The following R packages are needed for the Shiny app:
 
 ```R
 install.packages("shiny")
-install.packages("ggplot2") 
-install.packages("limma")
+install.packages("mvtnorm")
+install.packages("scatterplot3d")
+install.packages("gplots")
 ```
 
 ## Installation
