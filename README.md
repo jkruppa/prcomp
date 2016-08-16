@@ -2,6 +2,8 @@
 
 This is an example application for Shiny.
 
+![Screenshot](prcomp.png)
+
 ## Dependencies
 The following R packages are needed for the Shiny app:
 
