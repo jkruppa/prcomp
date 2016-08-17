@@ -1,7 +1,5 @@
 # Visualisation of principle component analysis and cluster heat maps
 
-This is an example application for Shiny.
-
 ![Screenshot](prcomp.png)
 
 ## Dependencies
